@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import re
 
@@ -192,17 +187,8 @@ def main():
             print("Invalid choice!")
 
 
-# Run program
+
 main()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
